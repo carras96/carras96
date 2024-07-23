@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quy Nguyen</h1>
 <h3 align="center">A frontend developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on TomoChain Labs [Aptos Scan](https://aptscan.ai/)
+- 🔭 I’m currently working on [Solscan](https://solscan.io/)
 
 - 💬 Ask me about **javascript, react**
 
